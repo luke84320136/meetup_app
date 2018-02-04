@@ -1,14 +1,16 @@
-# my-project
+# Meet Up
+##  說明
 
-> Vue + Vuex + Vuetify App
+## 參考
+Vue.js + Vuetify + Firebase Project - DevMeetup 
+https://goo.gl/wm8bKb
 
-## Build Setup
+## 安裝&使用
 
 ``` bash
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
 
 # build for production with minification
